@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Android Developer | JAVA | Kotlin | Jetpack Compose<br><br>I am a passionate Android Developer with hands-on experience in building modern, scalable, and user-focused Android applications using Kotlin and Jetpack Compose. I have strong command over MVVM architecture, ViewModel, Room Database, StateFlow, Coroutines, and Dependency Injection (Hilt).</p>
+<p align="left"><b>Android Developer | JAVA | Kotlin | Jetpack Compose<b><br><br>I am a passionate Android Developer with hands-on experience in building modern, scalable, and user-focused Android applications using Kotlin and Jetpack Compose. I have strong command over MVVM architecture, ViewModel, Room Database, StateFlow, Coroutines, and Dependency Injection (Hilt).</p>
 
 ###
 
@@ -21,20 +21,24 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=120&section=header&reversal=false&text=Cleaner%20Kit:&fontSize=35&fontColor=FFFFFF&fontAlign=50&fontAlignY=30&stroke=-&desc=https://play.google.com/store/apps/details?id=com.duplicate.file.remover.photocompress&pcampaignid=web_share&descSize=16&descAlign=50&descAlignY=70&color=gradient"  />
+  <a href="https://play.google.com/store/apps/details?id=com.duplicate.file.remover.photocompress&pcampaignid=web_share" target="_blank">
+    <img style="width:100%;" 
+         src="https://capsule-render.vercel.app/api?type=soft&height=120&section=header&text=Cleaner%20Kit:&fontSize=35&fontColor=FFFFFF&fontAlign=50&fontAlignY=30&desc=Play%20Store&descSize=16&descAlign=50&descAlignY=70&color=gradient" />
+  </a>
 </div>
-
-###
-
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=120&section=header&reversal=false&text=Video%20Player:&fontSize=35&fontColor=FFFFFF&fontAlign=50&fontAlignY=30&stroke=-&desc=https://play.google.com/store/apps/details?id=com.videoplayer.hd.mediaplayer.online.video&pcampaignid=web_share&descSize=16&descAlign=50&descAlignY=70&color=gradient"  />
+  <a href="https://play.google.com/store/apps/details?id=com.videoplayer.hd.mediaplayer.online.video&pcampaignid=web_share" target="_blank">
+    <img style="width:100%;" 
+         src="https://capsule-render.vercel.app/api?type=soft&height=120&section=header&text=Video%20Player:&fontSize=35&fontColor=FFFFFF&fontAlign=50&fontAlignY=30&desc=Play%20Store&descSize=16&descAlign=50&descAlignY=70&color=gradient" />
+  </a>
 </div>
-
-###
-
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=120&section=header&reversal=false&text=Software%20Update:&fontSize=35&fontColor=FFFFFF&fontAlign=50&fontAlignY=30&stroke=-&desc=https://play.google.com/store/apps/details?id=com.ai.security.network.security&pcampaignid=web_share&descSize=16&descAlign=50&descAlignY=70&color=gradient"  />
+  <a href="https://play.google.com/store/apps/details?id=com.ai.security.network.security&pcampaignid=web_share" target="_blank">
+    <img style="width:100%;" 
+         src="https://capsule-render.vercel.app/api?type=soft&height=120&section=header&text=Software%20Update:&fontSize=35&fontColor=FFFFFF&fontAlign=50&fontAlignY=30&desc=Play%20Store&descSize=16&descAlign=50&descAlignY=70&color=gradient" />
+  </a>
 </div>
+
 
 ###
 
