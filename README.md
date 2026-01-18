@@ -21,21 +21,23 @@
 ###
 
 <div>
-  <a href="https://play.google.com/store/apps/details?id=com.duplicate.file.remover.photocompress&pcampaignid=web_share" target="_blank">
-    <img style="width:100%;" 
-         src="https://capsule-render.vercel.app/api?type=soft&height=120&section=header&text=Cleaner%20Kit:&fontSize=35&fontColor=FFFFFF&fontAlign=50&fontAlignY=30&desc=Play%20Store&descSize=16&descAlign=50&descAlignY=70&color=gradient" />
+  <a href="https://play.google.com/store/apps/details?id=com.duplicate.file.remover.photocompress">
+    <img width="100%" 
+      src="https://capsule-render.vercel.app/api?type=soft&height=120&section=header&text=Cleaner%20Kit&fontSize=35&fontColor=FFFFFF" />
   </a>
 </div>
+
 <div>
-  <a href="https://play.google.com/store/apps/details?id=com.videoplayer.hd.mediaplayer.online.video&pcampaignid=web_share" target="_blank">
-    <img style="width:100%;" 
-         src="https://capsule-render.vercel.app/api?type=soft&height=120&section=header&text=Video%20Player:&fontSize=35&fontColor=FFFFFF&fontAlign=50&fontAlignY=30&desc=Play%20Store&descSize=16&descAlign=50&descAlignY=70&color=gradient" />
+  <a href="https://play.google.com/store/apps/details?id=com.videoplayer.hd.mediaplayer.online.video">
+    <img width="100%" 
+      src="https://capsule-render.vercel.app/api?type=soft&height=120&section=header&text=Video%20Player&fontSize=35&fontColor=FFFFFF&desc=View%20on%20Play%20Store&descSize=18&descAlignY=70&color=gradient" />
   </a>
 </div>
+
 <div>
-  <a href="https://play.google.com/store/apps/details?id=com.ai.security.network.security&pcampaignid=web_share" target="_blank">
-    <img style="width:100%;" 
-         src="https://capsule-render.vercel.app/api?type=soft&height=120&section=header&text=Software%20Update:&fontSize=35&fontColor=FFFFFF&fontAlign=50&fontAlignY=30&desc=Play%20Store&descSize=16&descAlign=50&descAlignY=70&color=gradient" />
+  <a href="https://play.google.com/store/apps/details?id=com.ai.security.network.security">
+    <img width="100%" 
+      src="https://capsule-render.vercel.app/api?type=soft&height=120&section=header&text=Software%20Update&fontSize=35&fontColor=FFFFFF&desc=View%20on%20Play%20Store&descSize=18&descAlignY=70&color=gradient" />
   </a>
 </div>
 
